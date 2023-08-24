@@ -12,8 +12,17 @@ These models are trained using historical data, including actual median house pr
 <b>Linear regression:</b> Assumes a linear connection between the input variables and the target variable, it's a straightforward and popular regression model.
 It is an excellent place to start when performing regression tasks and can give information about the linear connections between the predictors and the target variable.
 
-The Random Forest Regressor is an effective model for regression tasks and can provide precise predictions, it's well recognised for its capacity to handle non-linear correlations and interactions between features, can handle a high number of input variables, and is less likely to overfit.
+<b>The Random Forest Regressor: </b> An effective model for regression tasks and can provide precise predictions, it's well recognised for its capacity to handle non-linear correlations and interactions between features, can handle a high number of input variables, and is less likely to overfit.
 
-The XGBoost Regressor is an enhanced form of gradient boosting, a machine learning approach that combines several weak models (decision trees) to produce a powerful prediction model.
+<b>The XGBoost Regressor</b> An enhanced form of gradient boosting, a machine learning approach that combines several weak models
+(decision trees) to produce a powerful prediction model.
 High performance and the capacity to manage intricate data connections are two features that set XGBoost apart.
+
+
+## Files
+boston.csv: Data file
+BostonHousePricePredictions_SYNC.ipynb: Notebook with the models and analysis
+
+## Dataset obtained from:
+https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data
 
