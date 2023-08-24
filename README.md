@@ -20,7 +20,7 @@ High performance and the capacity to manage intricate data connections�
 
 
 ## Files
-boston.csv: Data file
+boston.csv: Data file                 
 BostonHousePricePredictions_SYNC.ipynb: Notebook with the models and analysis
 
 ## Dataset obtained from:
