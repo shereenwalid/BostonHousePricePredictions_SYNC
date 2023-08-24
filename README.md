@@ -1,6 +1,6 @@
 # Boston House Price Predictions
 ## Motivation
-“Boston is a state of mind” - Thomas Gold Appleton <br />   
+“Boston is a state of mind” - Thomas Gold Appleton                
 Boston was founded on September 17, 1630 and has a rich historical background, making it a very important city in the United States and a dream city for many people to live in.
 Which is why it's essential to create models that, that generate an estimated median value of owner-occupied homes based on the input characteristics and 
 These models are trained using historical data, including actual median house prices in Boston.
